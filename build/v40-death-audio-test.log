@@ -1,0 +1,11 @@
+FIRST timer=17 mixer=54 volume=12
+PASS timer-still-running-after-27-frames=1
+PASS poly5-tone-plus-noise=54
+PASS first-phase-perceptual-volume=12
+SECOND timer=12 period=61 mixer=54 volume=15
+PASS timer-entered-second-phase=1
+PASS poly9-tone-plus-noise=54
+PASS poly9-divider-16-period=61
+PASS second-volume-perceptual-map=15
+PASS death-sequence-completed=0
+RESULT failures=0

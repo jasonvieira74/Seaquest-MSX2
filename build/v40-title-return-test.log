@@ -1,0 +1,12 @@
+PASS first-game-started=0
+PASS first-game-one-player=1
+PASS game-over-returns-title=1
+PASS returned-default-selection=0
+PASS held-trigger-no-auto-start=0
+PASS second-option-selected=1
+PASS mode-changed-to-two=2
+PASS second-game-started=0
+PASS second-game-two-player=2
+PASS second-game-player-one-active=0
+PASS second-game-waiting-reserves=4
+RESULT failures=0

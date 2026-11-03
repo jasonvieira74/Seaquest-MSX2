@@ -1,0 +1,5 @@
+PASS init-marker=12
+PASS title-active=1
+PASS no-internal-msx-music=0
+PASS psg-melody-advancing=1
+RESULT failures=0

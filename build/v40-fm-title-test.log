@@ -1,0 +1,8 @@
+PASS init-marker=12
+PASS title-active=1
+PASS internal-msx-music=1
+PASS fm-score-pointer-live=1
+PASS variable-duration-event-live=1
+PASS psg-step-unused-by-fm=0
+FM ptr=30239 timer=30
+RESULT failures=0
